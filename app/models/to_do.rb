@@ -10,3 +10,4 @@
 #
 class ToDo < ApplicationRecord
 end
+
